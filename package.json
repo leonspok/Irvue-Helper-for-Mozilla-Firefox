@@ -1,15 +1,15 @@
 {
   "title": "Irvue Helper",
   "name": "irvuehelper",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Firefox extension which allows to add channels to Irvue from Unsplash",
   "main": "index.js",
   "author": "Igor Savelev",
   "homepage": "https://irvue.tumblr.com",
   "icon": {
-    "16": "./icon-16.png",
-    "32": "./icon-32.png",
-    "64": "./icon-64.png"
+    "16": "resource://@irvuehelper/data/icon-16.png",
+    "32": "resource://@irvuehelper/data/icon-32.png",
+    "64": "resource://@irvuehelper/data/icon-64.png"
   },
   "engines": {
     "firefox": ">=38.0a1",
